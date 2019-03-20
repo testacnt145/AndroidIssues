@@ -1,5 +1,4 @@
-# AndroidIssues
+# Banner width issue in Xxhdpi(1080x1920) vs Hdpi(480x800)
 
-## Design
+# XXhdpi
 
-1) [Banner with issue in xxhdpi and hdpi](https://github.com/testacnt145/AndroidIssues/blob/master/Design/BannerXxHdpi.md)
